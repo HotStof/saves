@@ -1,0 +1,7 @@
+fr/cpe/rest/IHelloRestService.class
+fr/cpe/rest/impl/AdditionRestService.class
+fr/cpe/rest/impl/UserRestServiceImpl.class
+fr/cpe/rest/impl/HelloRestService.class
+fr/cpe/rest/IUserRestService.class
+fr/cpe/rest/IAdditionRestService.class
+fr/cpe/rest/JaxRsActivator.class

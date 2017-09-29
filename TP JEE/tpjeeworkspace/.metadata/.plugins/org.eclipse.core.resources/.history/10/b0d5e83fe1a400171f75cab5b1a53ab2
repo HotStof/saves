@@ -1,0 +1,6 @@
+package fr.cpe;
+
+
+public interface Hello {
+
+}

@@ -1,0 +1,8 @@
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-domain/src/main/java/fr/cpe/model/User.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-domain/src/main/java/fr/cpe/service/IAdditionService.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-domain/src/main/java/fr/cpe/jms/producer/IHelloWorldJmsProducer.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-domain/src/main/java/fr/cpe/jms/producer/IAdditionServiceMessaging.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-domain/src/main/java/fr/cpe/jms/producer/impl/HelloWorldJmsProducer.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-domain/src/main/java/fr/cpe/dao/UserDao.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-domain/src/main/java/fr/cpe/jms/producer/impl/AdditionServiceMessaging.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-domain/src/main/java/fr/cpe/service/impl/AdditionService.java

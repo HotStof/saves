@@ -1,0 +1,7 @@
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-web/src/main/java/fr/cpe/rest/IAdditionRestService.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-web/src/main/java/fr/cpe/rest/JaxRsActivator.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-web/src/main/java/fr/cpe/rest/IHelloRestService.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-web/src/main/java/fr/cpe/rest/impl/HelloRestService.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-web/src/main/java/fr/cpe/rest/impl/AdditionRestService.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-web/src/main/java/fr/cpe/rest/IUserRestService.java
+/media/sf_WIP/git/cpe/asi2-tp2/asi2-tp2-web/src/main/java/fr/cpe/rest/impl/UserRestServiceImpl.java

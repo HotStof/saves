@@ -1,0 +1,8 @@
+fr/cpe/service/impl/AdditionService.class
+fr/cpe/dao/UserDao.class
+fr/cpe/jms/producer/IHelloWorldJmsProducer.class
+fr/cpe/model/User.class
+fr/cpe/jms/producer/impl/HelloWorldJmsProducer.class
+fr/cpe/jms/producer/IAdditionServiceMessaging.class
+fr/cpe/service/IAdditionService.class
+fr/cpe/jms/producer/impl/AdditionServiceMessaging.class
